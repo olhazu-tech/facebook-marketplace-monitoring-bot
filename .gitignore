@@ -1,0 +1,4 @@
+venv/
+fb_profile/
+seen.txt
+__pycache__/
